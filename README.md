@@ -11,7 +11,7 @@ This project aims to construct a machine learning model and implement it as a us
 4. **streamlit** -- Python framework to rapidly build and share beautiful machine learning and data science web apps
 5. **scikit-learn** -- Machine Learning library for the Python programming language
 
-6. ## Project Workflow
+## Project Workflow
 The following is a fundamental outline of the project:
   - The Resale Flat Prices dataset has five distinct CSV files, each representing a specific time period. These time periods are  2012 to 2014, 2015 to 2016, and 2017 onwards. Therefore, it is essential to merge the five distinct CSV files into a unified dataset.
     
